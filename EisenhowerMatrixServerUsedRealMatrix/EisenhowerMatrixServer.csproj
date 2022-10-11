@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{47447B9C-33CA-473E-844B-19C70AAC97B1}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <RootNamespace>EisenhowerMatrixServer</RootNamespace>
     <AssemblyName>EisenhowerMatrixServer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -32,12 +32,24 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="ASquare.WindowsTaskScheduler, Version=1.6.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\ASquare.WindowsTaskScheduler.1.6.0.0\lib\Net45\ASquare.WindowsTaskScheduler.dll</HintPath>
     </Reference>
     <Reference Include="BouncyCastle.Crypto, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
       <HintPath>packages\Portable.BouncyCastle.1.9.0\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML, Version=0.96.0.0, Culture=neutral, PublicKeyToken=fd1eb21b62ae805b, processorArchitecture=MSIL">
+      <HintPath>packages\ClosedXML.0.96.0\lib\net46\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.16.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>packages\DocumentFormat.OpenXml.2.16.0\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.1.0.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>packages\ExcelNumberFormat.1.1.0\lib\net20\ExcelNumberFormat.dll</HintPath>
     </Reference>
     <Reference Include="Google.Protobuf, Version=3.19.4.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
       <HintPath>packages\Google.Protobuf.3.19.4\lib\net45\Google.Protobuf.dll</HintPath>
@@ -55,6 +67,9 @@
       <HintPath>packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
+    <Reference Include="Microsoft.Win32.TaskScheduler, Version=2.10.1.0, Culture=neutral, PublicKeyToken=e25603a88b3aa7da, processorArchitecture=MSIL">
+      <HintPath>packages\TaskScheduler.2.10.1\lib\net452\Microsoft.Win32.TaskScheduler.dll</HintPath>
+    </Reference>
     <Reference Include="MySql.Data, Version=8.0.30.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <HintPath>packages\MySql.Data.8.0.30\lib\net452\MySql.Data.dll</HintPath>
     </Reference>
@@ -67,6 +82,12 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression, Version=4.1.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Compression.4.3.0\lib\net46\System.IO.Compression.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System.Management" />
     <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
@@ -88,6 +109,7 @@
     <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <HintPath>packages\MySql.Data.8.0.30\lib\net452\Ubiety.Dns.Core.dll</HintPath>
     </Reference>
+    <Reference Include="WindowsBase" />
     <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <HintPath>packages\MySql.Data.8.0.30\lib\net452\ZstdNet.dll</HintPath>
     </Reference>
@@ -95,13 +117,21 @@
   <ItemGroup>
     <Compile Include="DBMySQL\DBMySQLUtils.cs" />
     <Compile Include="DBMySQL\DBUtils.cs" />
+    <Compile Include="Installer1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Installer1.Designer.cs">
+      <DependentUpon>Installer1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SQLScripts\SQLScripts.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Deployment.csproj" />
     <None Include="packages.config" />
+    <None Include="SetupExcelMatrix.vdproj" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
