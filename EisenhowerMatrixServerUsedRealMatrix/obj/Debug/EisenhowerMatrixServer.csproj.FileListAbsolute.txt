@@ -1,0 +1,132 @@
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\EisenhowerMatrixServer.exe.config
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\EisenhowerMatrixServer.exe
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\EisenhowerMatrixServer.pdb
+C:\Users\user\source\repos\EisenhowerMatrixServer\obj\Debug\EisenhowerMatrixServer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EisenhowerMatrixServer\obj\Debug\EisenhowerMatrixServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\EisenhowerMatrixServer\obj\Debug\EisenhowerMatrixServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EisenhowerMatrixServer\obj\Debug\EisenhowerMatrixServer.exe
+C:\Users\user\source\repos\EisenhowerMatrixServer\obj\Debug\EisenhowerMatrixServer.pdb
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\ZstdNet.dll
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\Google.Protobuf.xml
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\EisenhowerMatrixServer\obj\Debug\EisenhowerMatrixServer.csproj.CopyComplete
+C:\Users\user\source\repos\EisenhowerMatrixServer\bin\Debug\ASquare.WindowsTaskScheduler.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.exe
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.pdb
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\EisenhowerMatrixServer.exe.config
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\EisenhowerMatrixServer.exe
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\EisenhowerMatrixServer.pdb
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\ASquare.WindowsTaskScheduler.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\ZstdNet.dll
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Google.Protobuf.xml
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.CopyComplete
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\EisenhowerMatrixServer.exe.config
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\EisenhowerMatrixServer.exe
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\EisenhowerMatrixServer.pdb
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\ASquare.WindowsTaskScheduler.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\BouncyCastle.Crypto.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Google.Protobuf.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Hash.xxHash.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\MySql.Data.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Buffers.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Memory.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Numerics.Vectors.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Ubiety.Dns.Core.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\ZstdNet.dll
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\BouncyCastle.Crypto.xml
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Google.Protobuf.pdb
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Google.Protobuf.xml
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.xml
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Hash.xxHash.xml
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\MySql.Data.xml
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Buffers.xml
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Memory.xml
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Numerics.Vectors.xml
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.AssemblyReference.cache
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.SuggestedBindingRedirects.cache
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.CoreCompileInputs.cache
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.CopyComplete
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.exe
+D:\Работа\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.pdb
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\EisenhowerMatrixServer.exe.config
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\EisenhowerMatrixServer.exe
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\EisenhowerMatrixServer.pdb
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\ASquare.WindowsTaskScheduler.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Google.Protobuf.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\MySql.Data.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Buffers.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Memory.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\ZstdNet.dll
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Google.Protobuf.pdb
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\Google.Protobuf.xml
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\MySql.Data.xml
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Buffers.xml
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Memory.xml
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.csproj.CopyComplete
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.exe
+C:\Users\Home\Desktop\первая задача\EisenhowerMatrixServerUsedRealMatrix\obj\Debug\EisenhowerMatrixServer.pdb
